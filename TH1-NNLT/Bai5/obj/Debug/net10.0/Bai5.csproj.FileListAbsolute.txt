@@ -1,0 +1,15 @@
+C:\Users\luxub\OneDrive\Máy tính\SGU26-CSharp\SGU26-CSharp\TH1-NNLT\Bai5\bin\Debug\net10.0\Bai5.exe
+C:\Users\luxub\OneDrive\Máy tính\SGU26-CSharp\SGU26-CSharp\TH1-NNLT\Bai5\bin\Debug\net10.0\Bai5.deps.json
+C:\Users\luxub\OneDrive\Máy tính\SGU26-CSharp\SGU26-CSharp\TH1-NNLT\Bai5\bin\Debug\net10.0\Bai5.runtimeconfig.json
+C:\Users\luxub\OneDrive\Máy tính\SGU26-CSharp\SGU26-CSharp\TH1-NNLT\Bai5\bin\Debug\net10.0\Bai5.dll
+C:\Users\luxub\OneDrive\Máy tính\SGU26-CSharp\SGU26-CSharp\TH1-NNLT\Bai5\bin\Debug\net10.0\Bai5.pdb
+C:\Users\luxub\OneDrive\Máy tính\SGU26-CSharp\SGU26-CSharp\TH1-NNLT\Bai5\obj\Debug\net10.0\Bai5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\luxub\OneDrive\Máy tính\SGU26-CSharp\SGU26-CSharp\TH1-NNLT\Bai5\obj\Debug\net10.0\Bai5.AssemblyInfoInputs.cache
+C:\Users\luxub\OneDrive\Máy tính\SGU26-CSharp\SGU26-CSharp\TH1-NNLT\Bai5\obj\Debug\net10.0\Bai5.AssemblyInfo.cs
+C:\Users\luxub\OneDrive\Máy tính\SGU26-CSharp\SGU26-CSharp\TH1-NNLT\Bai5\obj\Debug\net10.0\Bai5.csproj.CoreCompileInputs.cache
+C:\Users\luxub\OneDrive\Máy tính\SGU26-CSharp\SGU26-CSharp\TH1-NNLT\Bai5\obj\Debug\net10.0\Bai5.sourcelink.json
+C:\Users\luxub\OneDrive\Máy tính\SGU26-CSharp\SGU26-CSharp\TH1-NNLT\Bai5\obj\Debug\net10.0\Bai5.dll
+C:\Users\luxub\OneDrive\Máy tính\SGU26-CSharp\SGU26-CSharp\TH1-NNLT\Bai5\obj\Debug\net10.0\refint\Bai5.dll
+C:\Users\luxub\OneDrive\Máy tính\SGU26-CSharp\SGU26-CSharp\TH1-NNLT\Bai5\obj\Debug\net10.0\Bai5.pdb
+C:\Users\luxub\OneDrive\Máy tính\SGU26-CSharp\SGU26-CSharp\TH1-NNLT\Bai5\obj\Debug\net10.0\Bai5.genruntimeconfig.cache
+C:\Users\luxub\OneDrive\Máy tính\SGU26-CSharp\SGU26-CSharp\TH1-NNLT\Bai5\obj\Debug\net10.0\ref\Bai5.dll
