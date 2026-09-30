@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\luxub\\OneDrive\\Máy tính\\SGU26-CSharp\\SGU26-CSharp\\TH2-NNLT\\Bai13-14\\Bai13-14.csproj": {}
+    "C:\\Users\\luxub\\OneDrive\\Máy tính\\SGU26-CSharp\\SGU26-CSharp\\TH2-NNLT\\Bai13-14\\Bai13-14.csproj": {}
   },
   "projects": {
-    "c:\\Users\\luxub\\OneDrive\\Máy tính\\SGU26-CSharp\\SGU26-CSharp\\TH2-NNLT\\Bai13-14\\Bai13-14.csproj": {
+    "C:\\Users\\luxub\\OneDrive\\Máy tính\\SGU26-CSharp\\SGU26-CSharp\\TH2-NNLT\\Bai13-14\\Bai13-14.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\luxub\\OneDrive\\Máy tính\\SGU26-CSharp\\SGU26-CSharp\\TH2-NNLT\\Bai13-14\\Bai13-14.csproj",
+        "projectUniqueName": "C:\\Users\\luxub\\OneDrive\\Máy tính\\SGU26-CSharp\\SGU26-CSharp\\TH2-NNLT\\Bai13-14\\Bai13-14.csproj",
         "projectName": "Bai13-14",
-        "projectPath": "c:\\Users\\luxub\\OneDrive\\Máy tính\\SGU26-CSharp\\SGU26-CSharp\\TH2-NNLT\\Bai13-14\\Bai13-14.csproj",
+        "projectPath": "C:\\Users\\luxub\\OneDrive\\Máy tính\\SGU26-CSharp\\SGU26-CSharp\\TH2-NNLT\\Bai13-14\\Bai13-14.csproj",
         "packagesPath": "C:\\Users\\luxub\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\luxub\\OneDrive\\Máy tính\\SGU26-CSharp\\SGU26-CSharp\\TH2-NNLT\\Bai13-14\\obj\\",
+        "outputPath": "C:\\Users\\luxub\\OneDrive\\Máy tính\\SGU26-CSharp\\SGU26-CSharp\\TH2-NNLT\\Bai13-14\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\luxub\\AppData\\Roaming\\NuGet\\NuGet.Config",
